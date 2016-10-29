@@ -10,11 +10,11 @@
 
 ##Points
 
-*遵循Material Design规范
-*使用MVP + Dagger2架构整个项目
-*使用Retrofit + Rxjava网络请求
-*使用原生的夜间模式
-*酷炫的动画效果
+* 遵循Material Design规范
+* 使用MVP + Dagger2架构整个项目
+* 使用Retrofit + Rxjava网络请求
+* 使用原生的夜间模式
+* 酷炫的动画效果
 
 
 
