@@ -7,6 +7,6 @@
 ###Screenshorts
 
 
-![]{https://github.com/Yone-sx/FunNews/blob/master/screenshots/image.jpg}
+![](https://github.com/Yone-sx/FunNews/blob/master/screenshots/image.jpg)
 
 
